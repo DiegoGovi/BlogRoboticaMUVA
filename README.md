@@ -1,7 +1,7 @@
 <h1 align="center">🤖 Blog de Robótica – MUVA 🚀</h1>
 
 <p align="center">
-  <a href="https://diegogonovi.github.io/BlogRoboticaMUVA/">🌐 Visítalo aquí</a>
+  <a href="https://diegogovi.github.io/BlogRoboticaMUVA/">🌐 Visítalo aquí</a>
 </p>
 
 ---
@@ -22,5 +22,5 @@ El objetivo es documentar tanto los **fundamentos teóricos** como las **impleme
 ---
 
 _ℹ️ Este repositorio actúa como **soporte técnico** del blog._  
-_Para ver el contenido explicado y con resultados visuales, accede aquí 👉 [Blog de Robótica – MUVA](https://diegogonovi.github.io/BlogRoboticaMUVA/)._  
+_Para ver el contenido explicado y con resultados visuales, accede aquí 👉 [Blog de Robótica – MUVA](https://diegogovi.github.io/BlogRoboticaMUVA/)._  
 
